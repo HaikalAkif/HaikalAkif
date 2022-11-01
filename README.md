@@ -1,7 +1,7 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 <h1 align="center">Yahallo 👋, I'm Haikal Akif</h1>
 <h3 align="center">A newbie frontend developer from Malaysia</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=ecf05e47rvr141o0swdybiuicl7vvefdfzmmz3pse51zit2g&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haikalakif&label=Profile%20views&color=0e75b6&style=flat" alt="haikalakif" /> </p>
 
