@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haikalakif&label=Profile%20views&color=0e75b6&style=flat" alt="haikalakif" /> </p>
 
-🏔️ I am currently working on **GeoTracker**
+🏔️ I am currently working on **GeoTracker** 🏔️
 
-💻 I am currently learning **React Native**
+💻 I am currently learning **React Native** 💻
 
-💬 Ask me about **HTML & CSS**
+💬 Ask me about **HTML & CSS** 💬
 
-📫 Reach me via **haikalakif17@gmail.com**
+📫 Reach me via **haikalakif17@gmail.com** 📫
 
-📺 Fun fact **I love watching animes**
+📺 Fun fact **I love watching animes** 📺
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
