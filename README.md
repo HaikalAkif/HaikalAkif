@@ -8,7 +8,7 @@
 
 🏔️ I am currently working on **GeoTrack** 🏔️
 
-💻 I am currently learning **React Native** 💻
+💻 I am currently learning **Vue.JS** 💻
 
 💬 Ask me about **HTML & CSS** 💬
 
