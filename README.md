@@ -36,6 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haikalakif&" alt="haikalakif" /></p>
 
-## 😂 Here is a random joke that'll make you laugh!
+## 😂 Here is a random boring joke!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
