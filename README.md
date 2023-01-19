@@ -34,8 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haikalakif&show_icons=true&locale=en" alt="haikalakif" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haikalakif&" alt="haikalakif" /></p>
-
 ## 😂 Here is a random boring joke!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
