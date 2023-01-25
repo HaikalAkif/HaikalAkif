@@ -8,7 +8,7 @@
 
 📖 I am currently working on my **Portfolio** 📖
 
-💻 I am currently learning **Vue.JS** 💻
+💻 I am currently learning **Tailwind** 💻
 
 💬 Ask me about **HTML & CSS** 💬
 
