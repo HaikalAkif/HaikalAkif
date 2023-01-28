@@ -1,6 +1,6 @@
 ![README gif](https://user-images.githubusercontent.com/92365722/203189228-bb280470-e56b-4691-b79b-4bd0b3426e26.gif)
 
-<h1 align="center">Yahallo 👋, I'm Haikal Akif</h1>
+<h1 align="center">Yahallo 👋, I am Haikal Akif</h1>
 <h3 align="center">A fresh frontend developer from Malaysia</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=ecf05e47rvr141o0swdybiuicl7vvefdfzmmz3pse51zit2g&rid=giphy.gif&ct=g">
 
