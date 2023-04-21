@@ -8,7 +8,7 @@
 
 <!-- 📖 I am currently working on my **** 📖 -->
 
-💻 I am currently learning **Blender & Python** 💻
+💻 I am currently learning **Python** 💻
 
 💬 Ask me about **HTML & CSS** 💬
 
