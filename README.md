@@ -6,9 +6,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=haikalakif&label=Profile%20views&color=0e75b6&style=flat" alt="haikalakif" /> </p>
 
-<!-- 📖 I am currently working on my **** 📖 -->
+📖 I am currently working on my **Website Project** 📖
 
-💻 I am currently learning **Flutter** 💻
+💻 I am currently learning **React & Tailwindcss** 💻
 
 💬 Ask me about **HTML & CSS** 💬
 
