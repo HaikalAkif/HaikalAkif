@@ -23,8 +23,8 @@
 <a href="https://stackoverflow.com/users/kal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kal" height="30" width="40" /></a>
 <a href="https://dribbble.com/haikal akif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="haikal akif" height="30" width="40" /></a>
 <a href="https://codepen.io/haikal akif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="haikal akif" height="30" width="40" /></a>
-<a href="https://dev.to/ikool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ikool" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ikool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ikool" height="30" width="40" /></a>
+<a href="https://dev.to/haikalakif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ikool" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/HaikalAkif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="HaikalAkif" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
