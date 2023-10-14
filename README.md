@@ -8,7 +8,7 @@
 
 📖 I am currently working on my **Website Project** 📖
 
-💻 I am currently learning **React & Tailwindcss** 💻
+💻 I am currently learning **Flutter** 💻
 
 💬 Ask me about **HTML & CSS** 💬
 
