@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haikalakif&label=Profile%20views&color=0e75b6&style=flat" alt="haikalakif" /> </p>
 
-- 🔭 I’m currently working at **Krypton Berhad** as UI Designer
+- 🔭 I’m currently working at **Krypton Technologies Berhad** as UI Designer
 
 - 🌱 I’m currently learning **Flutter**
 
