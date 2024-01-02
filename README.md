@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at **Krypton Technologies Berhad** as UI Designer
 
-- 💻 I'm currently develop a **iConvert** website
+- 💻 I'm currently developing a **iConvert** website
 
 - 🌱 I’m currently learning **Flutter & Next.js**
 
