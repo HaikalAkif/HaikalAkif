@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at **Krypton Technologies Berhad** as UI Designer
 
-- 💻 I'm currently developing a cinema ticket booking app named **Onyx**
+- 💻 I'm currently developing my Portfolio Website
 
 - 🌱 I’m currently learning **Flutter & Next.js**
 
