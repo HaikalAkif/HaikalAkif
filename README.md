@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at **Krypton Technologies Berhad** as UI Designer
 
-- 💻 I'm currently developing my Portfolio Website
+- 💻 I'm currently developing a link shorterning website
 
 - 🌱 I’m currently learning **Flutter & Next.js**
 
