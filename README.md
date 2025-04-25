@@ -10,7 +10,7 @@
 
 - 💻 I'm currently developing a youtube video downloader website
 
-- 🌱 I’m currently learning **PHP & CMS**
+- 🌱 I’m currently learning **CMS**
 
 - 💬 Ask me about **Ui Design**
 
