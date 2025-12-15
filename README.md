@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haikalakif&label=Profile%20views&color=0e75b6&style=flat" alt="haikalakif" /> </p>
 
-- 🔭 I’m currently working at **TopClick Sdn Bhd** as Web Developer Freelancer
+- 🔭 I’m currently seeking for job around **Kuala Lumpur** as UI/UX Designer or Frontend Developer.
 
-- 💻 I'm currently developing a file converter website named iConvert. Stay Tuned!
+- 💻 I'm currently developing a design inspiration wesbite named Tinsel. Stay Tuned!
 
-- 🌱 I’m currently learning **CMS**
+- 🌱 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **Ui Design**
 
