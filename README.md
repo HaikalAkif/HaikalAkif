@@ -2,34 +2,25 @@
 
 <h1 align="center">Yahallo 👋, I am Haikal Akif</h1>
 <h3 align="center">A UI Designer & A Frontend Developer from Malaysia</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=ecf05e47rvr141o0swdybiuicl7vvefdfzmmz3pse51zit2g&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haikalakif&label=Profile%20views&color=0e75b6&style=flat" alt="haikalakif" /> </p>
 
-- 🔭 I’m currently seeking for job around **Kuala Lumpur** as UI/UX Designer or Frontend Developer.
+# 💫 About Me:
+- 🔭 I’m currently seeking for a job around **Kuala Lumpur** as UI/UX Designer or Frontend Developer <br><br>- 💻 I'm currently developing a design inspiration website. Stay Tuned!<br><br>- 🌱 I’m currently learning **Vue.js**<br><br>- 💬 Ask me about **Ui Design**<br><br>- 📫 How to reach me **haikalakif17@gmail.com**<br><br>- ⚡ Fun fact **I love watching animes**
 
-- 💻 I'm currently developing a design inspiration wesbite named Tinsel. Stay Tuned!
 
-- 🌱 I’m currently learning **Vue.js**
+## 🌐 Connect With Me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/icool.fig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haikalakifshaari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haikalakif17@gmail.com) 
 
-- 💬 Ask me about **Ui Design**
+## 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 📫 How to reach me **haikalakif17@gmail.com**
-
-- ⚡ Fun fact **I love watching animes**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/eykxl.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Haikal Akif" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/haikalakifshaari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Haikal Akif Shaari" height="30" width="40" /></a>
-<a href="https://dribbble.com/HaikalAkif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Haikal Akif" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg" alt="svelte" width="40" height="40"/> </a>   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
+## 💁‍♂️ GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haikalakif&show_icons=true&locale=en" alt="haikalakif" /> </p>
 
 ## 😂 Here is a random boring joke!!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## ✨ Just your everyday user
+<img align="center" alt="coding" width="400" src="https://media1.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=ecf05e47rvr141o0swdybiuicl7vvefdfzmmz3pse51zit2g&rid=giphy.gif&ct=g">
 
