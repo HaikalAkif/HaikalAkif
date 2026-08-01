@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haikalakif&label=Profile%20views&color=0e75b6&style=flat" alt="haikalakif" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working with **DeTA Tech** as UI/UX Developer <br><br>- 💻 I'm currently developing a color palettes website named Tinta !<br><br>- 🌱 I’m currently learning **Nuxt.js**<br><br>- 💬 Ask me about **Ui Design**<br><br>- 📫 How to reach me **haikalakif17@gmail.com**<br><br>- ⚡ Fun fact **I love watching animes**
+- 🔭 I’m currently freelancing as **UI/UX Developer** <br><br>- 💻 I'm currently developing a creative studio website named Kreyt !<br><br>- 🌱 I’m currently learning **SEO & AI Optimization in Web**<br><br>- 💬 Ask me about **Ui Design**<br><br>- 📫 How to reach me **haikalakif17@gmail.com**<br><br>- ⚡ Fun fact **I love watching animes**
 
 
 ## 🌐 Connect With Me:
